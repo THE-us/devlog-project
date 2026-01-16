@@ -3,3 +3,15 @@ Meu projeto para a criação de um site, que tem como o objetivo ser um "diário
 
 ## 🚀 Status do Projeto
 Fase 1 em andamento...
+
+### 📂 Estrutura de Pastas Atual
+devlog-project/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── main.js
+├── posts/
+├── README.md
+├── .gitignore
+└── LICENSE
